@@ -11,17 +11,17 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 
-
+# read data
 file_path='../HLFS Full Raw Data Set.csv'
 raw_data=pd.read_csv(file_path)
 
+# choose 
 data=raw_data[['How often do you experience stress during the academic semester? ','On average, how many hours per day do you spend using a computer or other screens? ']]
 data=data.rename(columns={'How often do you experience stress during the academic semester? ':'SF','On average, how many hours per day do you spend using a computer or other screens? ':'TST'})
 
-
-#print(data[pd.isnull(data.SF)])
+#clean data
 data=data.dropna()
-print(data[pd.isnull(data.SF)])
+
 
 # chi square
 chi_table=pd.crosstab(data['SF'],data['TST'])
@@ -48,11 +48,11 @@ dic={'Frequently':3,
         '1–3 hours':1,'Less than 1 hour':0  }
 
 
-
+#turn to numerical
 data['SF']=data['SF'].map(dic)
 data['TST']=data['TST'].map(dic)
 
 # calculate spearman's coefficient
 
 r=data['SF'].corr(data['TST'],method='spearman')
-print(r)
+print('spearman\'s coefficiency:',r)
