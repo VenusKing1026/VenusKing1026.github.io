@@ -6,10 +6,11 @@
         <description>Recent content in Categories on VenusKing</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>VK</copyright><atom:link href="https://VenusKing1026.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>VK</copyright>
+        <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://VenusKing1026.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>1</title>
         <link>https://VenusKing1026.github.io/categories/1/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
         
         <guid>https://VenusKing1026.github.io/categories/1/</guid>
         <description></description>
@@ -17,9 +18,17 @@
         <item>
         <title>2</title>
         <link>https://VenusKing1026.github.io/categories/2/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
         
         <guid>https://VenusKing1026.github.io/categories/2/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tech</title>
+        <link>https://VenusKing1026.github.io/categories/tech/</link>
+        <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://VenusKing1026.github.io/categories/tech/</guid>
         <description></description>
         </item>
         <item>
