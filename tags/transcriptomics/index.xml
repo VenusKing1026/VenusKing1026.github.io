@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>General_biology on VenusKing</title>
-        <link>https://VenusKing1026.github.io/tags/general_biology/</link>
-        <description>Recent content in General_biology on VenusKing</description>
+        <title>Transcriptomics on VenusKing</title>
+        <link>https://VenusKing1026.github.io/tags/transcriptomics/</link>
+        <description>Recent content in Transcriptomics on VenusKing</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>VK</copyright>
-        <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://VenusKing1026.github.io/tags/general_biology/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://VenusKing1026.github.io/tags/transcriptomics/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>M6A review</title>
         <link>https://VenusKing1026.github.io/p/m6a-review/</link>
         <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
@@ -137,70 +137,6 @@ METTL14识别活跃转录区的H3K36me3标记 → 招募METTL3 → 在新生RNA�
 &lt;p&gt;reference:
 ![[Boulias和Greer - 2023 - Biological roles of adenine methylation in RNA.pdf]]&lt;/p&gt;
 &lt;p&gt;#General_biology #transcriptomics&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>生命与对数</title>
-        <link>https://VenusKing1026.github.io/p/%E7%94%9F%E5%91%BD%E4%B8%8E%E5%AF%B9%E6%95%B0/</link>
-        <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://VenusKing1026.github.io/p/%E7%94%9F%E5%91%BD%E4%B8%8E%E5%AF%B9%E6%95%B0/</guid>
-        <description>&lt;h1 id=&#34;视觉对于光强的适应adaptation-for-light-intensity&#34;&gt;视觉对于光强的适应（adaptation for light intensity)
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://VenusKing1026.github.io/1.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;1&#34;
-	
-	
-&gt;
-Fig1 Response of a photoreceptor cell to light (Campbell Biology 12th edition)
-一个很反常识事情：光强度越高，视杆细胞（rod）反而越来越不活跃（hyperpolarization），并且释放的神经递质谷氨酸（glutamate）也减少。这说明视锥细胞进化出了一种负相关的光强度和细胞激活状态的适应规则。具体机制如下（可略，我只是复习一下）&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Mechanism
-rhodosin=retinal+opsin，其中retinal在光照和酶的作用下可以转换形态。在光照下，retinal转化为另一种形态，激活rhodosin。rhodosin作为一种G protein coupled receptor，激活G蛋白下游通路，促进了cGMP转化为GMP。而Na+通道需要cGMP才能打开，光照下cGMP减少，钠通道关闭，钠内流减少，rod处于超极化(hyperpolarization)状态，votage-gated Ca channel开放减少，钙内流减少，减少神经递质释放（Ca对于神经递质释放不同情况下有不同作用[挖个坑]）&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;这样做有几个&lt;strong&gt;好处&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;1-弱光分辨&#34;&gt;1. 弱光分辨
-&lt;/h3&gt;&lt;p&gt;视杆细胞十分敏感，在很暗的环境下也能响应。&lt;/p&gt;
-&lt;h3 id=&#34;2强光分辨&#34;&gt;2.强光分辨
-&lt;/h3&gt;&lt;p&gt;如果视杆细胞在强光下去极化，则一下子就达到了膜电位的最大值（动作电位发生很快），区分对强光的分辨能力：也就是说led灯和太阳看起来都一样了。（实际上强光下主要让更加厉害的视锥细胞rod主导视觉）&lt;/p&gt;
-&lt;p&gt;如果我们只关注光强（input）和谷氨酸释放（output）的关系我们可以发现几个特征
-1.输入高时需要防止饱和，平缓增长曲线
-2.输入低的时候需要精确调控&lt;/p&gt;
-&lt;p&gt;这和我们的对数函数&lt;strong&gt;y=log(x)十分的相似&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;![[Pasted image 20250528223348.jpg]]&lt;/p&gt;
-&lt;h1 id=&#34;采用对数编码信息的好处&#34;&gt;采用对数编码信息的好处
-&lt;/h1&gt;&lt;p&gt;自然界的很多特征都是通过数量级来表现的，例如天体的质量，1e10 和3e14，通常只比较后面的数量级。再如pH值，就是用氢离子的负对数来记录的。膜电位的计算，也是通过膜内外的离子浓度比的对数（实际上就是比例的数量级）来计算的。可见在自然界中，数据本身的数量级或者比例更能表现出其特征。&lt;/p&gt;
-&lt;p&gt;实际上==‘意义’==是人类对于自然界特征的&lt;em&gt;再定义&lt;/em&gt;，而再定义的过程实际上是&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;把信息与特征进行相互匹配，也就是编码。&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;例如在化学中，环境中氢离子的多少常常会影响反应的进行，在这个现象中，氢离子的多少是信息，氢离子浓度会影响反应进行是特征。而人类想要知道的是怎么样的氢离子浓度能得到最好的反应，所以将不同的氢离子浓度的不同影响效果联系起来得到了“氢离子浓度=A时能得到最好的反应”也就是将信息和特征编码了起来，同时赋予了这个氢离子浓度这个信息意义（对我有用的信息-特征对）。但在这个过程中人类发现，如果用线性方式将信息与特征编码起来，意义的浓度很低。&lt;/p&gt;
-&lt;p&gt;什么意思呢？也就是说如果我在氢离子浓度为1-1000中想找到能让反应最快进行的浓度，我需要进行1000次实验。从上帝视角来看，这个浓度应该是100，也就是说我的意义浓度是1/1000（找到对我有用的信息-特征对的概率是1/1000）。但如果是按照对数的方式，我只要做3次实验，意义浓度就是1/3。从结果来看，世界上的很多信息-特征&lt;/p&gt;
-&lt;p&gt;但正如我前面所说，自然界的特征往往要通过数量级或者倍数来表现出来，所以人们发现用对数来进行信息-特征的编码意义浓度跟高，能将特征浓缩到范围更小的信息中。&lt;/p&gt;
-&lt;h1 id=&#34;毕导视频中一个很有意思的例子&#34;&gt;毕导视频中一个很有意思的例子
-&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;==为什么我们总觉得越长大时间过得越快？==&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;先解决一个元问题：人类是怎么感知当前年龄下时间的流速的？
-毕导给的思路是，假设人对时间感知来自最近度过的一段时间占全人生的比例。
-当你2岁的时候，一年相当于人生的一半
-当你18岁的时候，一年相当于人生的1/18&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们对世界变化的感知，通常不是绝对值，而是相对比例（p=主管感受，s=客观变化，s0=刚有记忆的岁数）
-韦伯费希纳定律（Weber-Fechner Law)&lt;/p&gt;&lt;/blockquote&gt;
-$$
-dp=k⋅\frac{ds}{s},  p=k⋅ln(\frac{s}{s_0}) 
-$$&lt;p&gt;
-假设人的一生是80岁，从4岁开始有记忆，我们想找个主观的人生中点：
-&lt;/p&gt;
-$$
-k⋅ln(\frac{80}{4})=2k⋅ln(\frac{s}{4}) 
-$$&lt;p&gt;
-&lt;/p&gt;
-$$
-s=18$$&lt;p&gt;
-我嘞个都啊，不算不知道，一算我已经过了人生的一半了！&lt;/p&gt;
 </description>
         </item>
         

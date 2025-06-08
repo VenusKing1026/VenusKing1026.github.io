@@ -7,7 +7,139 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>VK</copyright>
-        <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://VenusKing1026.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://VenusKing1026.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>M6A review</title>
+        <link>https://VenusKing1026.github.io/p/m6a-review/</link>
+        <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://VenusKing1026.github.io/p/m6a-review/</guid>
+        <description>&lt;h1 id=&#34;1-definition-and-basic-concepts&#34;&gt;1. Definition and basic concepts
+&lt;/h1&gt;&lt;p&gt;![[Pasted image 20250608143245.png]]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;~25% of mammalian mRNAs contain m6A&lt;/li&gt;
+&lt;li&gt;m6A was found in UTR3&amp;rsquo; and near stop codons of transcripts that regulate differentiation and development&lt;/li&gt;
+&lt;li&gt;best characterized protein family which binds to m6A: YTH family&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2--basic-molecular-function-fig-12&#34;&gt;2.  Basic molecular function (fig 1,2)
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;21-pre-rna-splicing-and-nuclear-export&#34;&gt;2.1 pre-RNA splicing and nuclear export
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;211-m6a-affact-alternative-splicing--adirectly-bindirectly&#34;&gt;2.1.1 m6A affact &lt;em&gt;alternative splicing&lt;/em&gt; : a.directly b.indirectly
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;a.directly: recruiting SRSF3 &amp;ndash;&amp;gt; exon retention&lt;/li&gt;
+&lt;li&gt;b.indirect: exposing - HNRNPC &amp;ndash;&amp;gt; exon retention&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;212-m6a-facilitate-shuttling-of-mrnas-to-the-cytoplasm-for-translation&#34;&gt;2.1.2 m6A facilitate shuttling of mRNAs to the cytoplasm for translation
+&lt;/h3&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;22-mrna-degradation-and-stability&#34;&gt;2.2 mRNA degradation and stability
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;**strong context dependence&lt;/li&gt;
+&lt;li&gt;==futrue work== need to determine what additional factor determine whether the transcript need to degradate or stablize&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;23-mrna-translation&#34;&gt;2.3 mRNA translation
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;5&amp;rsquo; UTR m6A: initiation (cap-indepedent)&lt;/li&gt;
+&lt;li&gt;3&amp;rsquo; UTR: enhance translation (cap-dependent)&lt;/li&gt;
+&lt;li&gt;fact shows m6A can inhibit tRNA interaction thereby affacting elongatioin rate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;24-refines-ribosome-binding&#34;&gt;2.4 refines ribosome binding
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;only 2 conserved position are methylated:
+&lt;ul&gt;
+&lt;li&gt;18s rRNA:1832&lt;/li&gt;
+&lt;li&gt;28s rRNA:4220&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;function：induce the translation specificity under different context&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;25-micro-rna-processing&#34;&gt;2.5 micro RNA processing
+&lt;/h2&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;26-circrna-production-and-translation&#34;&gt;2.6 circRNA production and translation
+&lt;/h2&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;27-spliceosome-regulation&#34;&gt;2.7 Spliceosome regulation
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;regulate snRNAs to facilitate spliceosome assembly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;3-chomatin-and-genome-intergrity-fig-3&#34;&gt;3. Chomatin and genome intergrity (fig 3)
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;31-pre-mrna-crosstalk-with-chromatin-modification&#34;&gt;3.1 pre-mRNA crosstalk with chromatin modification
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;providing an extensive layer of gene expression regulating&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;positive feedback example:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;m⁶A的共沉积&lt;/strong&gt;：&lt;br&gt;
+METTL14识别活跃转录区的H3K36me3标记 → 招募METTL3 → 在新生RNA上即时添加m⁶A修饰。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;H3K9me2的擦除&lt;/strong&gt;：&lt;br&gt;
+新生RNA的m⁶A修饰反过来招募去甲基化酶（如KDM3B），移除抑制性标记H3K9me2，维持染色质开放状态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;32-regulate-lncrna&#34;&gt;3.2 regulate lncRNA
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Xist lncRNA contain m6A can silence gene on X chromasome&lt;/li&gt;
+&lt;li&gt;can change lncRNAs&amp;rsquo; formation &amp;ndash;&amp;gt; downstream&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;33-degradate-carrna&#34;&gt;3.3 degradate carRNA
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;carRNA can increase chromatin acsessibility&lt;/li&gt;
+&lt;li&gt;m6A can facilitate chromatin reorganization to regulate the appropriate suppression of retrotransposons to safe guard genome stability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;34-promote-genome-stability-at-r-loops&#34;&gt;3.4 promote genome stability at R-loops
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;R-loops: DNA-RNA complex, function for transcription intiation and elongation&lt;/li&gt;
+&lt;li&gt;prevent genome from degredation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;4-m6a-in-development-and-differentiation-fig-4&#34;&gt;4. m6A in development and differentiation (fig 4)
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;41-facilitate-es-cell-self-renewal-and-differentiation&#34;&gt;4.1 facilitate ES cell self-renewal and differentiation
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Nanog SOX2 KLF4 can maintain pluripotency&lt;/li&gt;
+&lt;li&gt;m6A on those pluripotency factors&amp;rsquo; mRNA can induce degradation thereby close the pluripotency fate and push the cell into differentiation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;42-facilitate-clearance-of-maternal-mrnas&#34;&gt;4.2 facilitate clearance of maternal mRNAs
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;m6A and YTHDF2 recruit protein for degradation maternal mRNA (1/3 contain m6A)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;43-regulate-adult-stem-cell-differentiation&#34;&gt;4.3 regulate adult stem-cell differentiation
+&lt;/h2&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;reference:
+![[Boulias和Greer - 2023 - Biological roles of adenine methylation in RNA.pdf]]&lt;/p&gt;
+&lt;p&gt;#General_biology #transcriptomics&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>生命与对数</title>
         <link>https://VenusKing1026.github.io/p/%E7%94%9F%E5%91%BD%E4%B8%8E%E5%AF%B9%E6%95%B0/</link>
         <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
